@@ -8,7 +8,7 @@ Openpose weight file is collected from [tf-pose-estimation](https://github.com/i
 
 Old version detects person using SSD then classify images.
 
-The old version is in [old branch](https://github.com/TianzhongSong/Real-Time-Action-Recognition/tree/old)
+The old version is in [old branch](https://github.com/panther711/action_recognition_realtime/tree/old)
 
 ## requirements
 
@@ -36,23 +36,23 @@ filterpy
 
 [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 
-![pose1](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/pose1.gif)
+![pose1](https://github.com/panther711/action_recognition_realtime/blob/master/files/pose1.gif)
 
-![pose2](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/pose2.gif)
+![pose2](https://github.com/panther711/action_recognition_realtime/blob/master/files/pose2.gif)
 
 ### multi-person tracking
 
 Using [sort](https://github.com/abewley/sort) to track person.
 
-![track1](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/track1.gif)
+![track1](https://github.com/panther711/action_recognition_realtime/blob/master/files/track1.gif)
 
-![track2](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/track2.gif)
+![track2](https://github.com/panther711/action_recognition_realtime/blob/master/files/track2.gif)
 
 ### action recognition
 
-![action1](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/action1.gif)
+![action1](https://github.com/panther711/action_recognition_realtime/blob/master/files/action1.gif)
 
-![action2](https://github.com/TianzhongSong/Real-Time-Action-Recognition/blob/master/files/action2.gif)
+![action2](https://github.com/panther711/action_recognition_realtime/blob/master/files/action2.gif)
 
 ## reference
 
